@@ -107,3 +107,6 @@ This project focuses on predicting customer churn using the **Telco Customer Chu
   - Introduced correlation (like multiple "No internet service" features).
   - Added sparsity due to binary one-hot encoded columns.
   - Possibly caused overfitting or underfitting if not scaled well.
+
+## 🙌 Credits
+Project by Sri – an aspiring Data Scientist exploring AI in creative ways!
